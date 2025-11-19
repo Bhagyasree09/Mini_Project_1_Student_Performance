@@ -42,6 +42,4 @@ Mini_Project_1_Student_Performance/
 Bhagyasree Nair  
 Guided under **Wayspire Data Science Program**
 
-## Author
-**[Your_Name] ([Your_University])**  
-Guided under **Wayspire Data Science Program**
+
